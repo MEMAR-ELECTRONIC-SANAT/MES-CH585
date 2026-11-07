@@ -1,60 +1,44 @@
-# RISC-V Core BLE5.4/2.4G/USB2.0-HS/NFC MCU - CH585
+# میکروکنترلر RISC-V با BLE 5.4، ارتباط 2.4GHz، USB 2.0 پرسرعت و NFC — CH585
 
-### Overview
+### معرفی
 
-CH585 is a RISC-V MCU microcontroller that integrates BLE wireless communication, high-speed USB and NFC. It integrates 2Mbps Bluetooth® Low Energy communication module, USB full-speed controller and transceiver, USB high-speed controller and transceiver (480Mbps), Near Field Communication (NFC) wireless interface, segment LCD driver module, LED dot matrix display interface, 2 SPIs, 4 UARTs, 14-channel ADC, touch-key detection module and other rich peripheral resources.
+میکروکنترلر **CH585** محصول شرکت WCH، مبتنی بر هسته پردازنده RISC-V است و قابلیت‌های ارتباط بی‌سیم BLE، رابط USB پرسرعت و NFC را در یک تراشه یکپارچه ارائه می‌کند.
 
-### System Block Diagram
+این تراشه به ماژول ارتباطی Bluetooth Low Energy با نرخ انتقال داده 2Mbps، کنترل‌کننده و فرستنده‌/گیرنده USB Full-Speed، کنترل‌کننده و فرستنده‌/گیرنده USB High-Speed با سرعت 480Mbps و رابط بی‌سیم ارتباط میدان نزدیک (NFC) مجهز است.
 
-![CH585](./image/CH585.jpg "CH585")
+از دیگر امکانات CH585 می‌توان به کنترل‌کننده LCD سگمنتی، رابط نمایشگر ماتریسی LED، دو رابط SPI، چهار رابط UART، مبدل ADC چهارده‌کاناله، واحد تشخیص کلید لمسی و مجموعه‌ای از تجهیزات جانبی دیگر اشاره کرد.
 
-### Features
+### نمودار بلوکی سیستم
 
- - QingKe RISC processor: RISC-V3C
+![نمودار بلوکی CH585](./image/CH585.jpg "CH585")
 
- - Support RV32IMBC instruction set and self-extended instructions
+### ویژگی‌ها و مشخصات اصلی
 
- - 128KB SRAM, 512KB Flash
+- هسته پردازنده RISC-V از خانواده QingKe، مدل **RISC-V3C**
+- پشتیبانی از مجموعه دستورالعمل‌های **RV32IMBC** و دستورالعمل‌های توسعه‌یافته اختصاصی
+- حافظه داخلی **128KB SRAM** و **512KB Flash**
+- پشتیبانی از روش‌های برنامه‌ریزی و به‌روزرسانی **ICP، ISP و IAP** و همچنین به‌روزرسانی بی‌سیم **OTA**
+- دارای فرستنده‌/گیرنده فرکانس رادیویی 2.4GHz به همراه بخش باند پایه و کنترل پیوند ارتباطی
+- پشتیبانی از استاندارد **Bluetooth Low Energy 5.4**
+- پشتیبانی از نرخ‌های انتقال داده **2Mbps** و **1Mbps**
+- حساسیت گیرندگی **‎-95dBm** و توان ارسال قابل برنامه‌ریزی تا **‎+4.5dBm**
+- ارائه پشته پروتکل (Protocol Stack) بهینه‌شده و رابط‌های برنامه‌نویسی کاربردی (API) در لایه کاربرد
+- پشتیبانی از نرخ نمونه‌برداری یا Polling تا **8kHz** در حالت ارتباطی 2.4GHz
+- دارای حسگر دمای داخلی
+- دارای واحد ساعت بلادرنگ **RTC** با پشتیبانی از حالت‌های زمان‌بندی و تحریک (Trigger)
+- دارای کنترل‌کننده و فرستنده‌/گیرنده داخلی **USB 2.0** با سرعت‌های High-Speed برابر 480Mbps و Full-Speed؛ پشتیبانی از حالت میزبان (Host) و دستگاه (Device) در سرعت‌های High، Full و Low
+- دارای رابط ارتباط بی‌سیم **NFC**
+- دارای رابط کنترل LCD سگمنتی با پشتیبانی از نمایشگرهایی تا **112 نقطه (28×4)**
+- دارای رابط نمایشگر ماتریسی LED با پشتیبانی از 1، 2، 4 یا 8 خط داده
+- چهار رابط **UART**، دوازده کانال **PWM**، دو رابط **SPI** و یک رابط **I²C**
+- چهارده کانال تشخیص کلید لمسی (**TouchKey**) و چهارده کانال مبدل **ADC دوازده‌بیتی**
+- دارای **40 پایه GPIO** که دو پایه از آن‌ها قابلیت دریافت سیگنال ورودی 5V را دارند
+- پشتیبانی از حداقل ولتاژ تغذیه **1.7V**
+- مجهز به سخت‌افزار رمزنگاری و رمزگشایی **AES-128** و شناسه منحصربه‌فرد تراشه (Chip ID)
+- گزینه‌های پکیج: **QFN48T، QFN32، QFN26C3 و QFN20**
 
- - Support ICP, ISP and IAP, support OTA wireless upgrade
+### راهنمای انتخاب محصول
 
- - Integrated with 2.4GHz RF transceiver and baseband and link control
+![راهنمای انتخاب محصولات](./image/SelectionGuide.jpg "SelectionGuide")
 
- - BLE complies with Bluetooth Low Energy 5.4 specifications
-
- - Support 2Mbps, 1Mbps
-
- - Receiving sensitivity -95dBm, programmable +4.5dBm transmission power.
-
- - Provide optimized protocol stack and application layer API
- 
- - Support up to 8kHz polling rate in 2.4G mode
-
- - Built-in temperature sensor
-
- - Built-in RTC, supports timing and trigger modes
-
- - Built-in USB2.0 480Mbps high-speed and full-speed controller and transceiver, support host and device mode at high/full/low speed
-
- - Provide NFC wireless interface
-
- - Provide segment LCD controller interface, supports up to 112 dots (28*4) LCD panel
-
- - Provide LED dot matrix display interface, supports 1/2/4/8 data lines
-
- - Provide 4 UARTs, 12-channel PWM, 2 SPIs, and 1 IIC
-
- - Provide 14-channel TouchKey detection and 14-channel 12-bit ADC
-
- - 40 GPIOs, 2 of them support 5V signal input
-
- - Support minimum 1.7V power supply
-
- - AES-128 encryption and decryption, unique chip ID
-
- - Package: QFN48T, QFN32, QFN26C3, QFN20
-
- ### Product Selection Guide
-
-![SelectionGuide](./image/SelectionGuide.jpg "SelectionGuide")
-CH584 is simplified based on CH585. One set of USBHS and SPI1 are removed. RAM size is reduced to 96KB.
+تراشه **CH584** نسخه ساده‌شده‌ای از CH585 است. در این مدل، یک مجموعه USBHS و رابط SPI1 حذف شده و ظرفیت حافظه RAM به **96KB** کاهش یافته است.
