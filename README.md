@@ -42,3 +42,17 @@
 ![راهنمای انتخاب محصولات](./image/SelectionGuide.jpg "SelectionGuide")
 
 تراشه **CH584** نسخه ساده‌شده‌ای از CH585 است. در این مدل، یک مجموعه USBHS و رابط SPI1 حذف شده و ظرفیت حافظه RAM به **96KB** کاهش یافته است.
+
+---
+
+## تهیه و تدوین
+
+**معمار الکترونیک صنعت**  
+**MEMAR ELECTRONIC SANAT (MES)**
+
+همراه شما در مسیر طراحی و ساخت مدارهای مطمئن
+
+- کانال تلگرام: [https://t.me/Memar_Electronic](https://t.me/Memar_Electronic)
+- پیج اینستاگرام: [https://www.instagram.com/Memar.Electronic](https://www.instagram.com/Memar.Electronic)
+
+[مشاهده سایر آموزش‌ها](https://github.com/MEMAR-ELECTRONIC-SANAT)
