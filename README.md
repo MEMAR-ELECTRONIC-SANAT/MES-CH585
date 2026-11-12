@@ -45,6 +45,8 @@
 
 ---
 
+![MES Divider](Images/MES-Divider.svg)
+
 ## تهیه و تدوین
 
 **معمار الکترونیک صنعت**  
