@@ -1,5 +1,9 @@
 # میکروکنترلر RISC-V با BLE 5.4، ارتباط 2.4GHz، USB 2.0 پرسرعت و NFC — CH585
 
+<p align="center">
+  <img src="Images/GitHub-Assets/MES-Hero-Banner.svg" width="100%" alt="MEMAR ELECTRONIC SANAT — MES">
+</p>
+
 ### معرفی
 
 میکروکنترلر **CH585** محصول شرکت WCH، مبتنی بر هسته پردازنده RISC-V است و قابلیت‌های ارتباط بی‌سیم BLE، رابط USB پرسرعت و NFC را در یک تراشه یکپارچه ارائه می‌کند.
@@ -11,6 +15,11 @@
 ### نمودار بلوکی سیستم
 
 ![نمودار بلوکی CH585](./image/CH585.jpg "CH585")
+
+
+<p align="center">
+  <img src="Images/GitHub-Assets/MES-Section-Header.svg" width="100%" alt="CH585 Features and Specifications">
+</p>
 
 ### ویژگی‌ها و مشخصات اصلی
 
@@ -37,6 +46,11 @@
 - مجهز به سخت‌افزار رمزنگاری و رمزگشایی **AES-128** و شناسه منحصربه‌فرد تراشه (Chip ID)
 - گزینه‌های پکیج: **QFN48T، QFN32، QFN26C3 و QFN20**
 
+
+<p align="center">
+  <img src="Images/GitHub-Assets/MES-Project-Card.svg" width="100%" alt="CH585 and CH584 Product Selection">
+</p>
+
 ### راهنمای انتخاب محصول
 
 ![راهنمای انتخاب محصولات](./image/SelectionGuide.jpg "SelectionGuide")
@@ -46,6 +60,11 @@
 ---
 
 ![MES Divider](Images/MES-Divider.svg)
+
+
+<p align="center">
+  <img src="Images/GitHub-Assets/MES-Status-Strip.svg" width="100%" alt="MES Embedded Engineering Resources">
+</p>
 
 ## تهیه و تدوین
 
@@ -58,3 +77,8 @@
 - پیج اینستاگرام: [https://www.instagram.com/Memar.Electronic](https://www.instagram.com/Memar.Electronic)
 
 [مشاهده سایر آموزش‌ها](https://github.com/MEMAR-ELECTRONIC-SANAT)
+
+
+<p align="center">
+  <img src="Images/GitHub-Assets/MES-Thank-You-Footer.svg" width="100%" alt="Thank you for visiting MES">
+</p>
