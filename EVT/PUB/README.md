@@ -264,3 +264,5 @@ For other visual assets used in this project documentation, visit [Images/GitHub
 [Explore more tutorials and projects](https://github.com/MEMAR-ELECTRONIC-SANAT)
 
 <img src="../../Images/GitHub-Assets/MES-Thank-You-Footer.svg" alt="Thank you - MES" width="100%">
+
+![MES Animated Logo](../../Images/GitHub-Assets/MES_Animated_Logo_640x480.svg)
