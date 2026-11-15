@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Images/GitHub-Assets/MES_Animated_Logo_640x480.svg" width="360" alt="MES Animated Logo">
+
 </p>
 
 <div dir="rtl" align="right">
@@ -169,7 +169,7 @@ CH585 از ارتباط بی‌سیم **Bluetooth Low Energy 5.4** و ارتبا
 
 ## تهیه و تدوین
 
-**معمار الکترونیک صنعت**  
+**معمار الکترونیک صنعت**
 **MEMAR ELECTRONIC SANAT (MES)**
 
 همراه شما در مسیر طراحی و ساخت مدارهای مطمئن
@@ -364,3 +364,5 @@ For additional images, diagrams and graphical assets used in the documentation, 
 <p align="center">
   <img src="Images/GitHub-Assets/MES-Thank-You-Footer.svg" width="100%" alt="Thank you for visiting MES">
 </p>
+
+![MES Animated Logo](Images/GitHub-Assets/MES_Animated_Logo_640x480.svg)
