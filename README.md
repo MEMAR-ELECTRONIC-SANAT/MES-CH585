@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Images/GitHub-Assets/MES_Animated_Logo_640x480.svg" width="360" alt="MES Animated Logo">
+</p>
+
 <div dir="rtl" align="right">
 
 # میکروکنترلر CH585 | هسته RISC-V، ارتباط BLE 5.4، USB 2.0 و NFC
