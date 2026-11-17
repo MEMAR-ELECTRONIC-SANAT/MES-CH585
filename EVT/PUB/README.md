@@ -1,7 +1,5 @@
 <div dir="rtl" align="right">
 
-<img src="../../Images/GitHub-Assets/MES-Section-Header.svg" alt="MES - معمار الکترونیک صنعت" width="100%">
-
 # منابع سخت‌افزاری و مستندات طراحی CH585 | PUB
 
 پوشه **PUB** بخشی از مجموعه منابع رسمی و فنی همراه با بسته توسعه **EVT** میکروکنترلر **WCH CH585** است. در این پوشه، مستندات مربوط به بردهای ارزیابی، شماتیک‌ها، نکات طراحی مدار و PCB و فایل‌های طراحی سخت‌افزار با نرم‌افزار **Altium Designer** نگهداری می‌شوند.
@@ -108,7 +106,7 @@
 
 ## ۶. ارتباط با سایر بخش‌های مخزن
 
-- [صفحه اصلی پروژه MES-CH585](../../README.md)
+- [صفحه اصلی پروژه CH585](../../README.md)
 - [مستندات و منابع EVT](../README.md)
 - [مثال‌های نرم‌افزاری EVT/EXAM](../EXAM/README.md)
 - [منابع دیتاشیت CH585](../../Datasheet/)
@@ -119,28 +117,6 @@
 فایل‌های PDF و طراحی‌های سخت‌افزاری این پوشه با هدف مطالعه، آموزش، ارزیابی و توسعه در اختیار کاربران قرار گرفته‌اند. نام فایل‌ها و محتوای اصلی منابع حفظ شده است تا ردیابی نسخه‌ها و مراجعه به اسناد سازنده آسان باشد.
 
 پیش از استفاده تجاری یا تولید انبوه، مجوز و شرایط استفاده از منابع اصلی، صحت طراحی، وضعیت قطعات و انطباق با آخرین مستندات رسمی WCH را بررسی کنید.
-
-## ۸. تصاویر و دیاگرام‌های راهنما
-
-<img src="../../Images/GitHub-Assets/MES-Divider.svg" alt="MES Divider" width="100%">
-
-برای مشاهده سایر تصاویر و عناصر گرافیکی مورد استفاده در مستندات پروژه، به پوشه [Images/GitHub-Assets](../../Images/GitHub-Assets/) مراجعه کنید.
-
----
-
-## تهیه و تدوین
-
-**معمار الکترونیک صنعت | MEMAR ELECTRONIC SANAT (MES)**
-
-*همراه شما در مسیر طراحی و ساخت مدارهای مطمئن*
-
-- **GitHub:** [MEMAR-ELECTRONIC-SANAT](https://github.com/MEMAR-ELECTRONIC-SANAT)
-- **Telegram:** [@Memar_Electronic](https://t.me/Memar_Electronic)
-- **Instagram:** [@Memar.Electronic](https://www.instagram.com/Memar.Electronic)
-
-[مشاهده سایر آموزش‌ها و پروژه‌ها](https://github.com/MEMAR-ELECTRONIC-SANAT)
-
-<img src="../../Images/GitHub-Assets/MES-Thank-You-Footer.svg" alt="Thank you - MES" width="100%">
 
 </div>
 
@@ -231,7 +207,7 @@ The [**SCHPCB**](./SCHPCB/) directory contains native Altium Designer documents:
 
 ## 6. Related Repository Sections
 
-- [MES-CH585 project home](../../README.md)
+- [CH585 project home](../../README.md)
 - [EVT documentation and resources](../README.md)
 - [EVT/EXAM software examples](../EXAM/README.md)
 - [CH585 datasheet resources](../../Datasheet/)
@@ -242,29 +218,3 @@ The [**SCHPCB**](./SCHPCB/) directory contains native Altium Designer documents:
 The PDFs and hardware design files in this directory are provided for study, education, evaluation, and development. Original filenames have been retained to make version tracking and reference to the source documents easier.
 
 Before commercial use or mass production, review the original resource licensing and usage terms, validate the design, confirm component availability, and check the latest official WCH documentation.
-
-## 8. Reference Images and Diagrams
-
-<img src="../../Images/GitHub-Assets/MES-Divider.svg" alt="MES Divider" width="100%">
-
-For other visual assets used in this project documentation, visit [Images/GitHub-Assets](../../Images/GitHub-Assets/).
-
----
-
-## Prepared by
-
-**MEMAR ELECTRONIC SANAT (MES)**
-
-*Your partner in designing and building reliable circuits.*
-
-- **GitHub:** [MEMAR-ELECTRONIC-SANAT](https://github.com/MEMAR-ELECTRONIC-SANAT)
-- **Telegram:** [@Memar_Electronic](https://t.me/Memar_Electronic)
-- **Instagram:** [@Memar.Electronic](https://www.instagram.com/Memar.Electronic)
-
-[Explore more tutorials and projects](https://github.com/MEMAR-ELECTRONIC-SANAT)
-
-<img src="../../Images/GitHub-Assets/MES-Thank-You-Footer.svg" alt="Thank you - MES" width="100%">
-
-<p align="center">
-  <img src="../../Images/GitHub-Assets/MES_Animated_Logo_640x480.svg" width="140" alt="MES Animated Logo">
-</p>

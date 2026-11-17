@@ -9,7 +9,7 @@
 ساختار مثال‌ها به‌گونه‌ای است که هر قابلیت یا کاربرد، در یک پوشه مستقل قرار گرفته و معمولاً فایل‌های پروژه، کدهای منبع، تنظیمات کامپایل و در برخی موارد فایل خروجی قابل پروگرام را در بر می‌گیرد. هدف این README معرفی ساختار پوشه‌ها، کمک به انتخاب مثال مناسب و ارائه مسیر شروع کار است؛ توضیحات اختصاصی هر پروژه و محدودیت‌های آن را باید در فایل‌های همراه همان پروژه و مستندات رسمی WCH بررسی کنید.
 
 - [بازگشت به راهنمای بسته EVT](../README.md)
-- [مشاهده مخزن MES-CH585](../../)
+- [مشاهده مخزن CH585](../../)
 - [دیتاشیت و مستندات CH585](../../Datasheet/)
 
 ## ساختار کلی
@@ -194,40 +194,10 @@
 ## منابع و پیوندهای مرتبط
 
 - [راهنمای کلی پوشه EVT](../README.md)
-- [مخزن MES-CH585](../../)
+- [مخزن CH585](../../)
 - [دیتاشیت و مستندات فنی CH585](../../Datasheet/)
 - [پروژه صفحه‌کلید لمسی خازنی CH585](../../Application/CapacitiveTouchKeyboard/)
 - [فایل‌های سخت‌افزاری و مستندات برد ارزیابی](../PUB/)
-
----
-
-## تصاویر و دیاگرام‌های راهنما
-
-<p align="center">
-  <img src="../../Images/GitHub-Assets/MES-Section-Header.svg" width="100%" alt="MES Technical Resources">
-</p>
-
-برای مشاهده سایر عناصر گرافیکی و تصاویر مورد استفاده در مستندات، به [پوشه GitHub-Assets](../../Images/GitHub-Assets/) مراجعه کنید.
-
-<p align="center">
-  <img src="../../Images/GitHub-Assets/MES-Divider.svg" width="100%" alt="MES Divider">
-</p>
-
-## تهیه و تدوین
-
-**معمار الکترونیک صنعت**
-**MEMAR ELECTRONIC SANAT (MES)**
-
-همراه شما در مسیر طراحی و ساخت مدارهای مطمئن
-
-- کانال تلگرام: [https://t.me/Memar_Electronic](https://t.me/Memar_Electronic)
-- پیج اینستاگرام: [https://www.instagram.com/Memar.Electronic](https://www.instagram.com/Memar.Electronic)
-
-[مشاهده سایر آموزش‌ها](https://github.com/MEMAR-ELECTRONIC-SANAT)
-
-<p align="center">
-  <img src="../../Images/GitHub-Assets/MES-Thank-You-Footer.svg" width="100%" alt="Thank you for visiting MES">
-</p>
 
 </div>
 
@@ -242,7 +212,7 @@ The **EXAM** directory is the main collection of software examples included in W
 Examples are organized into separate directories by function. A project folder may contain source code, project configuration, build settings and, in some cases, a prebuilt firmware image. This README provides a directory guide and a suggested workflow. Always consult the documentation shipped with each example and the official WCH references for implementation details and limitations.
 
 - [Back to the EVT package guide](../README.md)
-- [Open the MES-CH585 repository](../../)
+- [Open the CH585 repository](../../)
 - [CH585 datasheets and documentation](../../Datasheet/)
 
 ## Directory Overview
@@ -416,40 +386,9 @@ The USBHS group contains Device and Host projects, including **CDC, HID, Composi
 ## Related Resources
 
 - [EVT package guide](../README.md)
-- [MES-CH585 repository](../../)
+- [CH585 repository](../../)
 - [CH585 datasheets and technical documentation](../../Datasheet/)
 - [CH585 Capacitive Touch Keyboard project](../../Application/CapacitiveTouchKeyboard/)
 - [Evaluation board documentation and hardware files](../PUB/)
 
 ---
-
-## Images and Reference Diagrams
-
-<p align="center">
-  <img src="../../Images/GitHub-Assets/MES-Section-Header.svg" width="100%" alt="MES Technical Resources">
-</p>
-
-For additional graphical assets and documentation images, visit the [GitHub-Assets directory](../../Images/GitHub-Assets/).
-
-<p align="center">
-  <img src="../../Images/GitHub-Assets/MES-Divider.svg" width="100%" alt="MES Divider">
-</p>
-
-## Credits and Documentation
-
-**MEMAR ELECTRONIC SANAT (MES)**
-
-*Your partner in designing and building reliable circuits.*
-
-- Telegram: [https://t.me/Memar_Electronic](https://t.me/Memar_Electronic)
-- Instagram: [https://www.instagram.com/Memar.Electronic](https://www.instagram.com/Memar.Electronic)
-
-[Explore more tutorials](https://github.com/MEMAR-ELECTRONIC-SANAT)
-
-<p align="center">
-  <img src="../../Images/GitHub-Assets/MES-Thank-You-Footer.svg" width="100%" alt="Thank you for visiting MES">
-</p>
-
-<p align="center">
-  <img src="../../Images/GitHub-Assets/MES_Animated_Logo_640x480.svg" width="140" alt="MES Animated Logo">
-</p>

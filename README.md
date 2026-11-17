@@ -6,10 +6,6 @@
 
 # میکروکنترلر CH585 | هسته RISC-V، ارتباط BLE 5.4، USB 2.0 و NFC
 
-<p align="center">
-  <img src="Images/GitHub-Assets/MES-Hero-Banner.svg" width="100%" alt="MEMAR ELECTRONIC SANAT — MES">
-</p>
-
 ## منبع اصلی و مالکیت
 
 > محتوای اصلی این مخزن (بسته EVT، دیتاشیت‌ها و فایل LICENSE) از مخزن رسمی شرکت WCH (Nanjing Qinheng Microelectronics) یعنی [openwch/ch585](https://github.com/openwch/ch585) گرفته شده است. این مخزن را [OrenYu](https://github.com/orenyu) در آذر ۱۴۰۳ (دسامبر ۲۰۲۴) منتشر کرده است. حق نشر (Copyright) کدها طبق هدر هر فایل متعلق به WCH است و لایسنس آن‌ها (Apache-2.0، MIT یا BSD) در همان فایل‌ها مشخص شده است.
@@ -157,45 +153,11 @@ CH585 از ارتباط بی‌سیم **Bluetooth Low Energy 5.4** و ارتبا
 
 > **نکته:** پیش از استفاده از هر مثال، تنظیمات کلاک، پایه‌ها، پکیج تراشه و وابستگی‌های نرم‌افزاری آن را با سخت‌افزار واقعی خود تطبیق دهید. همه پایه‌ها و قابلیت‌ها لزوماً در تمام پکیج‌های خانواده در دسترس نیستند.
 
----
-
-## تصاویر و دیاگرام‌های راهنما
-
-<p align="center">
-  <img src="Images/GitHub-Assets/MES-Section-Header.svg" width="100%" alt="MES Technical Resources">
-</p>
-
-برای مشاهده سایر تصاویر، دیاگرام‌ها و عناصر گرافیکی مورد استفاده در مستندات، به [پوشه GitHub-Assets](./Images/GitHub-Assets/) مراجعه کنید.
-
-<p align="center">
-  <img src="Images/GitHub-Assets/MES-Divider.svg" width="100%" alt="MES Divider">
-</p>
-
-## تهیه و تدوین
-
-**معمار الکترونیک صنعت**
-**MEMAR ELECTRONIC SANAT (MES)**
-
-همراه شما در مسیر طراحی و ساخت مدارهای مطمئن
-
-- کانال تلگرام: [https://t.me/Memar_Electronic](https://t.me/Memar_Electronic)
-- پیج اینستاگرام: [https://www.instagram.com/Memar.Electronic](https://www.instagram.com/Memar.Electronic)
-
-[مشاهده سایر آموزش‌ها](https://github.com/MEMAR-ELECTRONIC-SANAT)
-
-<p align="center">
-  <img src="Images/GitHub-Assets/MES-Thank-You-Footer.svg" width="100%" alt="Thank you for visiting MES">
-</p>
-
 </div>
 
 ---
 
 # CH585 Microcontroller | RISC-V Core, BLE 5.4, USB 2.0 and NFC
-
-<p align="center">
-  <img src="Images/GitHub-Assets/MES-Hero-Banner.svg" width="100%" alt="MEMAR ELECTRONIC SANAT — MES">
-</p>
 
 ## Upstream Source and Ownership
 
@@ -345,34 +307,3 @@ A recommended workflow for starting CH585 development:
 > **Note:** Before using an example, verify its clock configuration, pin assignments, device package and software dependencies against your target hardware. Not all pins and peripherals are available in every package.
 
 ---
-
-## Images and Reference Diagrams
-
-<p align="center">
-  <img src="Images/GitHub-Assets/MES-Section-Header.svg" width="100%" alt="MES Technical Resources">
-</p>
-
-For additional images, diagrams and graphical assets used in the documentation, visit the [GitHub-Assets directory](./Images/GitHub-Assets/).
-
-<p align="center">
-  <img src="Images/GitHub-Assets/MES-Divider.svg" width="100%" alt="MES Divider">
-</p>
-
-## Credits and Documentation
-
-**MEMAR ELECTRONIC SANAT (MES)**
-
-*Your partner in designing and building reliable circuits.*
-
-- Telegram: [https://t.me/Memar_Electronic](https://t.me/Memar_Electronic)
-- Instagram: [https://www.instagram.com/Memar.Electronic](https://www.instagram.com/Memar.Electronic)
-
-[Explore more tutorials](https://github.com/MEMAR-ELECTRONIC-SANAT)
-
-<p align="center">
-  <img src="Images/GitHub-Assets/MES-Thank-You-Footer.svg" width="100%" alt="Thank you for visiting MES">
-</p>
-
-<p align="center">
-  <img src="Images/GitHub-Assets/MES_Animated_Logo_640x480.svg" width="140" alt="MES Animated Logo">
-</p>
