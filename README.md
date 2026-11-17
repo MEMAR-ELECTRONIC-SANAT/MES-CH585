@@ -10,6 +10,10 @@
   <img src="Images/GitHub-Assets/MES-Hero-Banner.svg" width="100%" alt="MEMAR ELECTRONIC SANAT — MES">
 </p>
 
+## منبع اصلی و مالکیت
+
+> محتوای اصلی این مخزن (بسته EVT، دیتاشیت‌ها و فایل LICENSE) از مخزن رسمی شرکت WCH (Nanjing Qinheng Microelectronics) یعنی [openwch/ch585](https://github.com/openwch/ch585) گرفته شده است. این مخزن را [OrenYu](https://github.com/orenyu) در آذر ۱۴۰۳ (دسامبر ۲۰۲۴) منتشر کرده است. حق نشر (Copyright) کدها طبق هدر هر فایل متعلق به WCH است و لایسنس آن‌ها (Apache-2.0، MIT یا BSD) در همان فایل‌ها مشخص شده است.
+
 ## معرفی
 
 میکروکنترلر **CH585** محصول شرکت **WCH**، مبتنی بر هسته پردازنده ۳۲ بیتی **RISC-V** از خانواده QingKe است. این تراشه مجموعه‌ای از قابلیت‌های پردازشی، ارتباطی و کنترلی را در یک قطعه ارائه می‌دهد و برای طراحی تجهیزات هوشمند، ابزارهای بی‌سیم، رابط‌های کاربری، تجهیزات USB و محصولات مبتنی بر BLE و NFC مناسب است.
@@ -192,6 +196,10 @@ CH585 از ارتباط بی‌سیم **Bluetooth Low Energy 5.4** و ارتبا
 <p align="center">
   <img src="Images/GitHub-Assets/MES-Hero-Banner.svg" width="100%" alt="MEMAR ELECTRONIC SANAT — MES">
 </p>
+
+## Upstream Source and Ownership
+
+> The original content of this repository (EVT package, datasheets and LICENSE) comes from WCH's (Nanjing Qinheng Microelectronics) official repository [openwch/ch585](https://github.com/openwch/ch585), published by [OrenYu](https://github.com/orenyu) in December 2024. Copyright of the source code belongs to WCH as stated in each file header; each file's license (Apache-2.0, MIT or BSD) is given in that file.
 
 ## Overview
 
