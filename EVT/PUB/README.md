@@ -265,4 +265,6 @@ For other visual assets used in this project documentation, visit [Images/GitHub
 
 <img src="../../Images/GitHub-Assets/MES-Thank-You-Footer.svg" alt="Thank you - MES" width="100%">
 
-![MES Animated Logo](../../Images/GitHub-Assets/MES_Animated_Logo_640x480.svg)
+<p align="center">
+  <img src="../../Images/GitHub-Assets/MES_Animated_Logo_640x480.svg" width="140" alt="MES Animated Logo">
+</p>
