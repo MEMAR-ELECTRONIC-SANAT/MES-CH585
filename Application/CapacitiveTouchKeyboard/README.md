@@ -110,28 +110,6 @@
 
 <img src=./image/Download1_v2.0.jpg width=51% /><img src=./image/Download2_v2.0.jpg width=49% />
 
-### ۷. تصاویر و دیاگرام‌های راهنما
-
-تصاویر شماتیک، جانمایی PCB، اصول عملکرد و مراحل پروگرام در بخش‌های مرتبط همین راهنما قرار گرفته‌اند. برای دسترسی به مجموعه دارایی‌های گرافیکی و تصاویر تکمیلی MES، از [پوشه GitHub-Assets](../../Images/GitHub-Assets/) استفاده کنید.
-
-<div align="center">
-  <img src="../../Images/MES-Divider.svg" alt="MES Divider" width="100%" />
-</div>
-
-### ۸. تهیه و تدوین
-
-**معمار الکترونیک صنعت / MEMAR ELECTRONIC SANAT (MES)**
-
-*همراه شما در مسیر طراحی و ساخت مدارهای مطمئن*
-
-- [GitHub](https://github.com/MEMAR-ELECTRONIC-SANAT)
-- [Telegram](https://t.me/Memar_Electronic)
-- [Instagram](https://www.instagram.com/Memar.Electronic)
-
-</div>
-
-<div align="center">
-  <img src="../../Images/MES-Divider.svg" alt="MES Divider" width="100%" />
 </div>
 
 # Capacitive Touch Keyboard - v2.0 | English
@@ -242,8 +220,3 @@ The IDE used to develop this project is [MounRiver Studio](http://www.mounriver.
 
 <img src=./image/Download1_v2.0.jpg width=51% /><img src=./image/Download2_v2.0.jpg width=49% />
 
-Additional MES graphic resources: [GitHub-Assets](../../Images/GitHub-Assets/).
-
-<p align="center">
-  <img src="../../Images/GitHub-Assets/MES_Animated_Logo_640x480.svg" width="140" alt="MES Animated Logo">
-</p>
