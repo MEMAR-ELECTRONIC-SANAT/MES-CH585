@@ -18,6 +18,14 @@ CH585 از ارتباط بی‌سیم **Bluetooth Low Energy 5.4** و ارتبا
 
 این مخزن مجموعه‌ای از مستندات، فایل‌های طراحی سخت‌افزار، نمونه‌کدها و منابع توسعه CH585 را گردآوری می‌کند. محتوای مخزن شامل دیتاشیت و مستندات فنی، بسته توسعه EVT شرکت WCH، پروژه نمونه صفحه‌کلید لمسی خازنی و تصاویر راهنما است.
 
+## منبع اصلی و توضیحات ترجمه
+
+منبع اصلی این پروژه، مخزن رسمی شرکت WCH با نشانی زیر است:
+
+- [openwch/ch585 — مخزن اصلی CH585](https://github.com/openwch/ch585)
+
+محتوای این مخزن MES بر اساس مخزن اصلی فوق تهیه شده و **صرفاً مطالب و مستندات آن به زبان فارسی ترجمه شده‌اند**. این مخزن به‌عنوان نسخه ترجمه‌شده و راهنمای فارسی ارائه می‌شود؛ بنابراین تغییر یا توسعه مستقلی در محتوای فنی پروژه اصلی، کدهای منبع یا فایل‌های نرم‌افزاری ادعا نمی‌شود. برای دریافت آخرین نسخه و مراجعه به مرجع معتبر، همواره مخزن اصلی WCH را بررسی کنید.
+
 ## ویژگی‌ها و مشخصات اصلی
 
 - هسته پردازنده **RISC-V3C** از خانواده QingKe
@@ -200,6 +208,14 @@ The **CH585**, manufactured by **WCH**, is a 32-bit RISC-V microcontroller based
 The CH585 supports **Bluetooth Low Energy 5.4**, proprietary 2.4GHz communication, **USB 2.0 High-Speed (480Mbps)** and Full-Speed, **NFC**, capacitive touch-key detection, ADC, PWM and common serial interfaces.
 
 This repository collects technical documentation, hardware design resources, software examples and development materials for the CH585. It includes datasheets, WCH's EVT package, a capacitive touch keyboard reference project and supporting images.
+
+## Original Source and Translation Notice
+
+The original source of this project is the official WCH repository:
+
+- [openwch/ch585 — Original CH585 Repository](https://github.com/openwch/ch585)
+
+This MES repository is based on the original repository above. **Only its textual materials and documentation have been translated into Persian.** It is provided as a translated reference and Persian-language guide; no independent modification or development of the original project's technical content, source code or software files is claimed. Please refer to the official WCH repository for the authoritative source and latest updates.
 
 ## Main Features and Specifications
 
